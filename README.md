@@ -8,6 +8,9 @@
 [![GitHub Repo stars](https://img.shields.io/github/stars/RainBowLuoCS/Awesome-Unified-Multimodal-Understanding-and-Generation)](https://github.com/RainBowLuoCS/Awesome-Unified-Multimodal-Understanding-and-Generation)
 
 </div>
+
+This paper list is only used to record papers I read in the daily arxiv for personal needs. I hope this will contribute to the unified multimodal generation and understanding community. If you find I missed some important and exciting work, it would be super helpful to let me know. Thanks!
+
 ## 📢 News
 🎉 [2025-06-10] Project Beginning 🥳
 
